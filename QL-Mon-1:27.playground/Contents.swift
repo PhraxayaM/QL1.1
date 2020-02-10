@@ -54,8 +54,8 @@ func mean(arr: [Int]) -> Any {
 mean(arr: [1,2,3,4])
 
 func median(arr: [Int]) -> Any {
-    var sorted = arr.sorted()
-    var count = arr.count
+    let sorted = arr.sorted()
+    let count = arr.count
     
     if count < 1 {
         return []
@@ -72,3 +72,12 @@ func median(arr: [Int]) -> Any {
 var testa = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 median(arr: testa)
 
+
+func mode(arr: [Int]) -> Any {
+//    var dict: [String: Int] = [:]
+    var dict: [String: Int]
+    for item in arr {
+       
+    }
+    
+}
