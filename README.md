@@ -2,4 +2,4 @@
 
 HW 2:
 
-![Logo](https://imgur.com/a/wj6M8w7.jpg)
+![Logo](https://i.imgur.com/a/wj6M8w7.jpg)
